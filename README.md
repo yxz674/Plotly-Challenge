@@ -1,4 +1,4 @@
-# Plot.ly Homework - Belly Button Biodiversity
+# Plotly-Challenge
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
