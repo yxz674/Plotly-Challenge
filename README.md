@@ -70,11 +70,6 @@ The following task is advanced and therefore optional.
 
 * Refer to the [Plotly.js documentation](https://plot.ly/javascript/) when building the plots.
 
-## Rubric
-
-[Unit 14 Rubric - Plot.ly Homework - Belly Button Biodiversity](https://docs.google.com/document/d/1wD_hOEJELD2hifTaECfx66xlpEdJeYm3mL8q2Zoq1vo/edit?usp=sharing)
-
-- - -
 
 ## References
 
