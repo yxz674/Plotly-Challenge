@@ -16,8 +16,6 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * Use `otu_labels` as the hovertext for the chart.
 
- [bar chart](https://user-images.githubusercontent.com/87953612/140628555-324458e4-67d1-4a47-82aa-4a2f9d2b00d6.png)
-
 
 3. Create a bubble chart that displays each sample.
 
@@ -31,19 +29,15 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 * Use `otu_labels` for the text values.
 
-![Bubble Chart](Images/bubble_chart.png)
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-![hw](Images/hw03.png)
-
 6. Update all of the plots any time that a new sample is selected.
 
-Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
 
-![hw](Images/hw02.png)
+Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
 
 ## Advanced Challenge Assignment (Optional)
 
@@ -55,7 +49,6 @@ The following task is advanced and therefore optional.
 
 * Update the chart whenever a new sample is selected.
 
-![Weekly Washing Frequency Gauge](Images/gauge.png)
 
 ## Deployment
 
@@ -63,11 +56,6 @@ The following task is advanced and therefore optional.
 
 * Ensure your repository has regular commits and a thorough README.md file
 
-## Hints
-
-* Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
-
-* Refer to the [Plotly.js documentation](https://plot.ly/javascript/) when building the plots.
 
 
 ## References
