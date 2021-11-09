@@ -94,11 +94,7 @@ function updatePlotly() {
         mode: "markers",
         text: labels,
         type: "bubble",
-        marker: {
-            size: allvalues,
-            color: iDs,
-            colorscale: "Earth"
-        }
+        marker: {size: allvalues,color: iDs,colorscale: "Earth"}
     };
     let traceData2 = [trace2];
 
