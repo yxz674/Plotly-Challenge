@@ -96,14 +96,13 @@ function updatePlotly() {
         type: "bubble",
         marker: {size: allvalues,color: iDs,colorscale: "Earth"}
     };
+    
     let traceData2 = [trace2];
 
     let layout2 = {
         height: 600,
         width: 1200,
-        xaxis: {
-            title: "OTU ID"
-        }
+        xaxis: {title: "OTU ID"}
     };
     
     Plotly.newPlot("bubble", traceData2, layout2);
